@@ -1,4 +1,1 @@
-# smart-learning
-first repository
-<br>
-Author - Rupali Mangla
+Task 2
